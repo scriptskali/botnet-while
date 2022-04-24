@@ -10,21 +10,25 @@ CYAN = '\033[36m'
 WHITE = '\033[37m'
 RESET = '\033[39m'
 os.system("clear")
-from time import sleep
-print("\033a[;36m")
-print(BLUE+"█▄▄ █▀█ ▀█▀ ▄▄ █▀█ █▀▀ █▀█ █▀█ █▀█ ▀█▀")
-print("█▄█ █▄█ ░█░ ░░ █▀▄ ██▄ █▀▀ █▄█ █▀▄ ░█░")
-sleep(1)
-print ("//////////////////////////////////////////")
-print ("tiktok:s.c.r.i.p.t.s.k.a.l.i")
-print ("//////////////////////////////////////////")
-
-sleep(1)
-username = ""
-username = input("username: 0")
-print("\033s[;32m")
-b = 1
-while b  < 99999999999999999:
-    sleep(1)
-    print (("[*]")."REPORT-BOT FOR TIKTOK USER". (username). (b))
-    b = b +1
+a(RR+"░█▀▀█ ░█▀▀▀█ ▀▀█▀▀ ── ░█──░█ ░█─░█ ▀█▀ ░█─── ░█▀▀▀")
+a(RR+"░█▀▀▄ ░█──░█ ─░█── ▀▀ ░█░█░█ ░█▀▀█ ░█─ ░█─── ░█▀▀▀")
+a(RR+"░█▄▄█ ░█▄▄▄█ ─░█── ── ░█▄▀▄█ ░█─░█ ▄█▄ ░█▄▄█ ░█▄▄▄")
+       print("\033[;32m")
+       username = ""
+       username = input("usuario:")
+       while True:
+             print (("[*]"),"REPORT-BOT FOR TIKTOK USER @", (username), (b))
+             sleep(1)
+             b = b + 1
+      elif op == 2:
+       os.system("clear")
+       a(RR+"
+a(RR+"░█▀▀█ ░█▀▀▀█ ▀▀█▀▀ ── ░█──░█ ░█─░█ ▀█▀ ░█─── ░█▀▀▀") 
+a(RR+"░█▀▀▄ ░█──░█ ─░█── ▀▀ ░█░█░█ ░█▀▀█ ░█─ ░█─── ░█▀▀▀")
+a(RR+"░█▄▄█ ░█▄▄▄█ ─░█── ── ░█▄▀▄█ ░█─░█ ▄█▄ ░█▄▄█ ░█▄▄▄")
+       print("\033[;32m")
+       username = ""
+       username = input("usuario:")
+       while True:
+             print (("[*]"),"REPORT-BOT FOR TIKTOK USER @", (username), (b))
+             b = b + 1  
