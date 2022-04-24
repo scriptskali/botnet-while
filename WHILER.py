@@ -13,8 +13,6 @@ os.system("clear")
 print(GREEN+"░█▀▀█ ░█▀▀▀█ ▀▀█▀▀ ── ░█──░█ ░█─░█ ▀█▀ ░█─── ░█▀▀▀")
 print("      ░█▀▀▄ ░█──░█ ─░█── ▀▀ ░█░█░█ ░█▀▀█ ░█─ ░█─── ░█▀▀▀")
 print("      ░█▄▄█ ░█▄▄▄█ ─░█── ── ░█▄▀▄█ ░█─░█ ▄█▄ ░█▄▄█ ░█▄▄▄")
-       
-       username=""
        username = input("usuario:")
        while True:
              print (("[*]"),"REPORT-BOT FOR TIKTOK USER @", (username), (b))
