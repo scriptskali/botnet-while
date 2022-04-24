@@ -14,7 +14,7 @@ print(GREEN+"░█▀▀█ ░█▀▀▀█ ▀▀█▀▀ ── ░█─
 print("      ░█▀▀▄ ░█──░█ ─░█── ▀▀ ░█░█░█ ░█▀▀█ ░█─ ░█─── ░█▀▀▀")
 print("      ░█▄▄█ ░█▄▄▄█ ─░█── ── ░█▄▀▄█ ░█─░█ ▄█▄ ░█▄▄█ ░█▄▄▄")
        
-       username = ""
+       username=""
        username = input("usuario:")
        while True:
              print (("[*]"),"REPORT-BOT FOR TIKTOK USER @", (username), (b))
